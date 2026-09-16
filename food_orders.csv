@@ -1,0 +1,21 @@
+OrderID,Customer,Restaurant,FoodCategory,OrderAmount,DeliveryTime_min,Rating,City
+1001,Ravi,Saravana Bhavan,South Indian,320,28,4.5,Chennai
+1002,Divya,Pizza Hub,Fast Food,650,35,,Chennai
+1003,Karthik,Anjappar,South Indian,480,40,4.2,Madurai
+1004,Meena,Burger Point,Fast Food,300,22,4.0,Puducherry
+1005,Suresh,Sweet Corner,Desserts,150,18,4.8,Chennai
+1006,Priya,Saravana Bhavan,South Indian,,25,4.3,Chennai
+1007,Ramesh,Anjappar,South Indian,520,45,3.9,Madurai
+1008,Kavya,Pizza Hub,Fast Food,700,50,3.5,Chennai
+1009,Vignesh,Sweet Corner,Desserts,180,15,,Puducherry
+1010,Anitha,Burger Point,Fast Food,,20,4.1,Puducherry
+1011,Bala,Saravana Bhavan,South Indian,340,30,4.4,Chennai
+1012,Deepa,Anjappar,South Indian,500,55,3.2,Madurai
+1013,Ganesh,Pizza Hub,Fast Food,660,33,4.0,Chennai
+1014,Harini,Sweet Corner,Desserts,160,12,4.9,Puducherry
+1015,Ilamurugan,Burger Point,Fast Food,310,60,2.8,Puducherry
+1016,Jaya,Saravana Bhavan,South Indian,330,27,4.6,Chennai
+1017,Manoj,Anjappar,South Indian,,42,3.8,Madurai
+1018,Lakshmi,Pizza Hub,Fast Food,680,38,4.1,Chennai
+1019,Karthika,Sweet Corner,Desserts,170,16,4.7,Puducherry
+1020,Deepa,Anjappar,South Indian,500,55,3.2,Madurai
